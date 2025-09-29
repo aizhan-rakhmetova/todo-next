@@ -1,6 +1,7 @@
 # TODO Manager
 
 A comprehensive TODO application built with Next.js 15, showcasing different rendering strategies and modern React patterns.
+Link to vercel: https://todo-next-rho-nine.vercel.app/ 
 
 ## 🚀 Features
 
